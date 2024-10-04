@@ -1,4 +1,4 @@
-#➡️ Version 1.4:
+➡️ #Version 1.4:
 
 • Further fix of virtualization detection on machine.
 • Changed the user interface.
@@ -7,12 +7,12 @@
 • Added a system to display the patch note in another window. (It is automatically updated via github)
 
 
-#➡️ Version 1.3 HOTFIX:
+➡️ #Version 1.3 HOTFIX:
 
 • Fixed virtualization detection issue.
 
 
-#➡️ Version 1.3:
+➡️ #Version 1.3:
 
 • Renamed the "Clean after ban" button to "Complete Clean".
 
@@ -29,7 +29,7 @@
 • Introduced a Windows notification system to better inform the user.
 
 
-#➡️ Version 1.2:
+➡️ #Version 1.2:
 
 • Added functionality to clean browsing history in Brave and Chrome.
 
@@ -46,7 +46,7 @@
 • Made minor UI adjustments.
 
 
-#➡️ Version 1.1:
+➡️ #Version 1.1:
 
 • Added a feature to clean residual files after a ban.
 
@@ -57,7 +57,7 @@
 • Added clipboard cleaning functionality.
 
 
-#➡️ Version 1.0:
+➡️ #Version 1.0:
 
 • Automated closure of Arena Breakout Infinite & Anti-Cheat Expert if detected running.
 
