@@ -6,11 +6,17 @@
 ➡️ Version 1.3:
 
 • Renamed the "Clean after ban" button to "Complete Clean".
+
 • Enhanced the "TryCloseProcess" function to prevent potential errors.
+
 • Improved the robustness of "TryCloseProcess2" to handle closed processes without errors.
+
 • Optimized the "CheckAndCloseABI" function for better performance.
+
 • Translated all message boxes into French for enhanced user experience.
+
 • Enhanced the "CheckAndCloseACE" function for more efficient process management.
+
 • Introduced a Windows notification system to better inform the user.
 
 
