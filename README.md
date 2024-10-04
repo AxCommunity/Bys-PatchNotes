@@ -12,13 +12,13 @@
 
 
 
-➡️ Version 1.3 [HOTFIX]: ◀️
+▶️ Version 1.3 [HOTFIX]: ◀️
 
 • Fixed virtualization detection issue.
 
 
 
-➡️ Version 1.3: ◀️
+▶️ Version 1.3: ◀️
 
 • Renamed the "Clean after ban" button to "Complete Clean".
 
@@ -36,7 +36,7 @@
 
 
 
-➡️ Version 1.2: ◀️
+▶️ Version 1.2: ◀️
 
 • Added functionality to clean browsing history in Brave and Chrome.
 
@@ -54,7 +54,7 @@
 
 
 
-➡️ Version 1.1: ◀️
+▶️ Version 1.1: ◀️
 
 • Added a feature to clean residual files after a ban.
 
@@ -66,7 +66,7 @@
 
 
 
-➡️ Version 1.0: ◀️
+▶️ Version 1.0: ◀️
 
 • Automated closure of Arena Breakout Infinite & Anti-Cheat Expert if detected running.
 
