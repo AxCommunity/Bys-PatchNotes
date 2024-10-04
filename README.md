@@ -11,9 +11,11 @@
 • A new system has been integrated to present patch notes in a separate window. This feature supports automatic updates via GitHub, ensuring that users always have access to the latest information.
 
 
+
 ➡️ Version 1.3 HOTFIX:
 
 • Fixed virtualization detection issue.
+
 
 
 ➡️ Version 1.3:
@@ -33,6 +35,7 @@
 • Introduced a Windows notification system to better inform the user.
 
 
+
 ➡️ Version 1.2:
 
 • Added functionality to clean browsing history in Brave and Chrome.
@@ -50,6 +53,7 @@
 • Made minor UI adjustments.
 
 
+
 ➡️ Version 1.1:
 
 • Added a feature to clean residual files after a ban.
@@ -59,6 +63,7 @@
 • Introduced a feature to clean up recent document traces.
 
 • Added clipboard cleaning functionality.
+
 
 
 ➡️ Version 1.0:
