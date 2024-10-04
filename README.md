@@ -1,14 +1,14 @@
 ➡️ Version 1.4:
 
-• Further fix of virtualization detection on machine.
+• Enhanced Virtualization Detection: Further improvements have been made to the virtualization detection mechanism on the machine to ensure accurate reporting.
 
-• Changed the user interface.
+• User Interface Overhaul: The user interface has been updated to provide a more modern and intuitive experience for users.
 
-• Added a function to detect if a hypervisor is active on the machine, if yes it displays the name of the hypervisor.
+• Hypervisor Detection Functionality: A new feature has been added to detect the presence of an active hypervisor on the machine. If detected, the name of the hypervisor will be displayed for user reference.
 
-• Added a detection function to return the disk style or windows is installed.
+• Disk Style Detection: Implemented a detection function to identify the disk style used for the Windows installation, allowing users to verify their system configuration.
 
-• Added a system to display the patch note in another window. (It is automatically updated via github)
+• Patch Notes Display System: A new system has been integrated to present patch notes in a separate window. This feature supports automatic updates via GitHub, ensuring that users always have access to the latest information.
 
 
 ➡️ Version 1.3 HOTFIX:
