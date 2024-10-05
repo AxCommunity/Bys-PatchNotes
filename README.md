@@ -1,3 +1,9 @@
+▶️ Version 1.5 (Work In Progress): ◀️
+
+• Do all the cleaning only if the application detects that the USB key is properly connected, otherwise, it does nothing.
+
+
+
 ▶️ Version 1.4: ◀️
 
 • Further improvements have been made to the virtualization detection mechanism on the machine to ensure accurate reporting.
