@@ -1,4 +1,4 @@
-▶️ Version 1.5 (Work In Progress): ◀️
+▶️ Version 1.5: ◀️
 
 • Do all the cleaning only if the application detects that the USB key is properly connected, otherwise, it does nothing.
 • Added a feature to detect if 'Hyper-V' is running on the machine. And if so it displays the name.
