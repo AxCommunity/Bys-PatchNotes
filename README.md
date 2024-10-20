@@ -1,9 +1,20 @@
+▶️ Version 1.6: ◀️
+
+• Modification and optimization of the function that retrieves the TPM status to work on most machines.
+
+• Added new feature to do disk cleanup during complete clean.
+
+
 ▶️ Version 1.5: ◀️
 
 • Do all the cleaning only if the application detects that the USB key is properly connected, otherwise, it does nothing.
+
 • Added a feature to detect if 'Hyper-V' is running on the machine. And if so it displays the name.
+
 • Added a feature to detect if 'BIOS' is Legacy or UEFI.
+
 • Added a feature to detect if 'TPM' is ON or OFF.
+
 • Added a feature to detect 'Processor Model'.
 
 
